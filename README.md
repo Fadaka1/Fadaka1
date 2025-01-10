@@ -23,11 +23,7 @@ I am a detail-oriented and results-driven Data Analyst with a passion for transf
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/>
-<p align="center">
-  <img src="images/excel_logo.svg" alt="Excel" width="120" height="120"/>
-  <img src="images/tableau_logo.png" alt="Tableau" width="120" height="120"/>
-  <img src="images/power_bi_logo.svg" alt="Power BI" width="120" height="120"/>
-</p>
+
 
 
 
