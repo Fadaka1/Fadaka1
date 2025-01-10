@@ -15,15 +15,15 @@ I am a detail-oriented and results-driven Data Analyst with a passion for transf
 ### Skills
 # Tools and Technologies  
 
-I work with a variety of tools to clean, analyze, and visualize data. Here are a few of them:  
+I work with a variety of tools for data analysis, visualization, and modeling. Below are some of the key tools I use:  
 
 <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100" height="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Tableau_Logo.png" alt="Tableau" width="100" height="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Excel_2013_logo.svg" alt="Excel" width="100" height="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="100" height="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Talend_Logo.svg" alt="Talend" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Power_BI_logo.svg" alt="Power BI" width="100" height="100"/>
 </p>
-
 
 ### Socials
 
@@ -37,5 +37,6 @@ I work with a variety of tools to clean, analyze, and visualize data. Here are a
 <a href="http://www.github.com/Fadaka1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fadaka1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/Fadaka1"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Fadaka1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 
