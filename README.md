@@ -13,29 +13,17 @@ I am a detail-oriented and results-driven Data Analyst with a passion for transf
 * ⚡  "Life is what you make of it; study hard play hard".
 
 ### Skills
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/excel-colored.svg" width="36" height="36" alt="Excel" />
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/r-colored.svg" width="36" height="36" alt="R" />
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tableau-colored.svg" width="36" height="36" alt="Tableau" />
-  </a>
-  <a href="https://www.talend.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/talend-colored.svg" width="36" height="36" alt="Talend" />
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powerbi-colored.svg" width="36" height="36" alt="Power BI" />
-  </a>
+# Tools and Technologies  
+
+I work with a variety of tools to clean, analyze, and visualize data. Here are a few of them:  
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Tableau_Logo.png" alt="Tableau" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Excel_2013_logo.svg" alt="Excel" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Talend_Logo.svg" alt="Talend" width="100" height="100"/>
 </p>
+
 
 ### Socials
 
@@ -49,6 +37,5 @@ I am a detail-oriented and results-driven Data Analyst with a passion for transf
 <a href="http://www.github.com/Fadaka1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fadaka1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/Fadaka1"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Fadaka1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 
 
